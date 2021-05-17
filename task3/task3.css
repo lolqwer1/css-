@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    min-width: 350px;
+    background-color: #5fced8;
+}
+
+.lol {
+    text-align: left;
+    text-align: center;
+}
+
+.wz1 {
+    padding: 100px;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: left;
+}
+
+.lol1 {
+    padding-left: 20%;
+    float: left;
+}
+
+.log {
+    width: 50px;
+}
+
+.wz {
+    color: aliceblue;
+}
+
+.lol2 {
+    margin-left: 30%;
+    float: left;
+}
+
+.log2 {
+    width: 50px;
+}
+
+.wz2 {
+    color: aliceblue;
+}
+
+.log1 {
+    width: 30px;
+    margin-left: 20px;
+    margin-top: 13px;
+}
+
+.log3 {
+    width: 110px;
+    margin-top: 40px;
+    margin-left: 0%;
+}
